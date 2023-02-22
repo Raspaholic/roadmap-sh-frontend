@@ -1,0 +1,58 @@
+PROJECT WEBSITE = "RASPAHOLIC INDUSTRIES: EDUCATION TRACKING/PROGRESS WITH DIFFERENT SUBJECTS"
+Sub section to add to Raspaholic Industries in the future but this is okay to do now
+
+Bible
+
+Speech
+Health
+Physics
+Biology
+Chemistry
+World Geography
+World History
+US History
+Economics 
+Government
+Computer Science
+
+Math
+Pre Calculus
+Algebra 2
+Geometry
+Algebra 
+
+English
+Frankenstein
+1984
+Man's Search For Meaning Viktor E. Frankl
+A Thousand Shall Fall
+To Kill a Mockingbird
+Romeo and Juliet
+Tom Sawyer
+
+
+Language
+Spanish 1/2
+
+
+school program using ai that tracks the progression and knowledge of an individual studying a course: ai can make practice
+problems based on areas that need to be readressed and maybe even tests. Personalized daily tasks? Schedule review sessions?
+
+GROW method
+Goal: by exam day, 0 topics to be red or not understood and as many topics to be green as possible
+
+Grid: this method uses a grid calendar 
+  1 grid per exam
+  List all topics for that exam in the left column
+    Every time you review a topic, record the date to the right (next column and rows)
+
+Rating system: a color coded confidence system about how you feel for each topic
+  every time you review a topic, highlight the date with the color coded confidence system
+    don't know a topic well? that's how you know to spend more time and attention on it for the next session
+
+Overall outcome: 
+  by exam day, 0 topics to be red or not understood and as many topics to be green as possible
+
+Weakest topic: 
+  study the weakest topic at that moment
+    Multiple red topics: study the weakest topic least recently reviewed
