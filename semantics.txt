@@ -1,0 +1,27 @@
+<header>
+  header with logo and navigation
+  <nav>
+    contain blocks of site nav links
+  </nav>
+</header>
+<section>
+  used to mark off sections of doc 
+  like chapters and major sections
+</section>
+<aside>
+  used to ident content related to main page content 
+  not part of primary flow of doc could contain 
+  glossary definition of a term that appears in blog
+  may contain advertisements related to content
+</aside>
+<main>
+  contain all content that is unique to single web 
+  page not repeated across multiple web pages
+</main>
+<footer>
+  authorship contact copyright info navigational 
+  links like to top of page
+
+  Contact and Bugs and Problems and copyright info
+</footer>
+

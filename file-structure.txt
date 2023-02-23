@@ -4,13 +4,6 @@ Sub section to add to Raspaholic Industries in the future but this is okay to do
 Bible
 
 Speech
-Health
-Physics
-Biology
-Chemistry
-World Geography
-World History
-US History
 Economics 
 Government
 Computer Science
@@ -30,9 +23,19 @@ To Kill a Mockingbird
 Romeo and Juliet
 Tom Sawyer
 
+Science
+Health
+Physics
+Biology
+Chemistry
 
 Language
 Spanish 1/2
+
+History 
+World Geography
+World History
+US History
 
 
 school program using ai that tracks the progression and knowledge of an individual studying a course: ai can make practice

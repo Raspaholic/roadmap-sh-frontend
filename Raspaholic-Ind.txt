@@ -5,3 +5,15 @@ Goals
 Projects
 Progress
 Updates
+
+Cites and Sources
+Raspaholic Industries will give all credible sources and liberties to other creators works that have inspired,
+made improvements, or out right created. Links to these people will be available under each project.
+
+Reporting Bugs & Problems
+To report a problem with the website, email me at raspaholic.industries@gmail.com
+Report the issue on the website github page at
+https://github.com/Raspaholic/Raspaholic-Ind./issues Thanks:)
+make into form
+
+
