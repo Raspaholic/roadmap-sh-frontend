@@ -37,6 +37,7 @@ World Geography
 World History
 US History
 
+music i.e maybe a look at playlists or what I'm listening to on spotify? Spotify API helps i think.
 
 school program using ai that tracks the progression and knowledge of an individual studying a course: ai can make practice
 problems based on areas that need to be readressed and maybe even tests. Personalized daily tasks? Schedule review sessions?
