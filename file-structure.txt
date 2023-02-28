@@ -1,6 +1,17 @@
 PROJECT WEBSITE = "RASPAHOLIC INDUSTRIES: EDUCATION TRACKING/PROGRESS WITH DIFFERENT SUBJECTS"
 Sub section to add to Raspaholic Industries in the future but this is okay to do now
 
+<header>
+  navbar with logo and collapsible nav Links
+</header>
+<footer>
+  Cites and Sources notice
+  Reporting Bugs and Problems notice
+  <address>
+    main contact info
+  </address>
+</footer>
+
 Bible
 
 Speech

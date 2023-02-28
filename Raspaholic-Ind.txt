@@ -1,10 +1,12 @@
-Home Page: Updates and blog?
+Home Page: Hero with short desc -> Socials(same from github and others) -> Updates and blog?
 About Page: Hero about Page
-Future Projects
-Goals
-Projects
-Progress
-Updates
+Education
+Goals + Progress + Updates
+Projects + Progress/Updates -> Future Projects + Updates
+Photos? | maybe under projects
+Contact
+
+make navbar stick to top of screen and collapsible
 
 Cites and Sources
 Raspaholic Industries will give all credible sources and liberties to other creators works that have inspired,
